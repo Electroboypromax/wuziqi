@@ -1,0 +1,5 @@
+gomoku-game/
+├── index.html          # 游戏主页面
+├── gameLogic.js        # 游戏逻辑
+├── supabaseClient.js   # Supabase 配置
+└── package.json        # 项目配置
